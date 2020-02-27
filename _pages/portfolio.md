@@ -8,7 +8,6 @@ author_profile: true
 ### Projects with Tableau
 
 [**Data Visualisation: Airbnb Selection in NYC 2019**](/files/Airbnb%20Selection%20in%20NYC_Susie%20Tao.pdf)
-[![Open the notebook](https://img.shields.io/badge/Jupyter-OPen_the_Notebook-9cf?logo=Jupyter)](https://davinaliang.github.io/files/Airbnb%20Selection%20in%20NYC_Susie%20Tao.pdf)
 - Description
 ![](/images/Airbnb%20Selection%20in%20NYC.png)
 
