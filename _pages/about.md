@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Serendipity - Susie Tao"
+title: "Susie Tao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
