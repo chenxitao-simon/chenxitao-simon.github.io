@@ -53,9 +53,3 @@ author_profile: true
 ![](/images/Credit%20Risk%20Prediction%20with%20LightBGM_1.png)
 
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
