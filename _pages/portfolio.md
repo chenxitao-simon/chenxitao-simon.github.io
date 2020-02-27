@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-### Projects with Tableau
+## Projects with Tableau
 
 [**Data Visualisation: Airbnb Selection in NYC 2019**](/files/Airbnb%20Selection%20in%20NYC_Susie%20Tao.pdf)
 - Description
