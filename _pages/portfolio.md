@@ -5,9 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-[Project Name 1](/Humana_May_Case_Competition.html)
-![](/images/humana-mays.png)
-Description
+A data-driven personal website
+======
+[**Data Visualisation: Airbnb Selection in NYC 2019**](/files/Airbnb%20Selection%20in%20NYC_Susie%20Tao.pdf)
+[![Open the notebook](https://img.shields.io/badge/Jupyter-OPen_the_Notebook-9cf?logo=Jupyter)](https://davinaliang.github.io/files/Airbnb%20Selection%20in%20NYC_Susie%20Tao.pdf)
+- Description
+![](/images/Airbnb%20Selection%20in%20NYC.png)
 
 ---
 [Project Name 2](/pdf/PricingAnalyticsPJ2.pdf)
