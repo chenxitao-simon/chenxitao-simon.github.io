@@ -34,4 +34,4 @@ author_profile: true
 
 
 Hope you know me better! 
-Feel free to check my [My Portofolio](/portfolio/)!
+Feel free to check my [portfolio](/portfolio/)!
