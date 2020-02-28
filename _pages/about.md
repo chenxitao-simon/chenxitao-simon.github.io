@@ -20,7 +20,7 @@ To know more about me, feel free to check:
 <br/>
 [My Translations](/translations/)
 <br/>
-[My CV](/cv.md)
+[My CV](/cv/)
 
 <br/>
 ![](/images/BG.JPG)
