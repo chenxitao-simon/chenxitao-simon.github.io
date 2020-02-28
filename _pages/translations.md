@@ -10,7 +10,9 @@ As an A.R.M.Y since 2016, I've been teaching myself Korean, running a Weibo acco
 
 > Tip: all the translations are in Chineses! 
 
-## For BTS
+Feel free to check some below:
+
+### For BTS
 
 [【pann】35岁的孩子妈妈不可以喜欢BTS吗?](https://m.weibo.cn/5977544597/4306717124800429)
 <br/>
