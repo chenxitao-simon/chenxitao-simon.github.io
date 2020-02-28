@@ -23,8 +23,15 @@ author_profile: true
 <p align="center">
   Won the 3rd place in KPMG National Case Competition with my team</p>
   
+**Throughout the college life, I began to realize the significance of big data and machine learning in today's business life, and aspire to explore more after graduation. That's what led me here at Simon Business School.**
+![Simon](/images/Simon.jpeg)
+
+**Now as an active member of four clubs, I'm now on my way to seek my future career as a data analyst.**
+![Club](/images/Club.JPG)
+
+**TMI: I love music and traveling, and I'm a loyal A.R.M.Y who's supported BTS since 2016.**
+![Leisure](/images/Leisure.JPG)
 
 
- 
- 
-
+Hope you know me better! 
+Feel free to check my [My Portofolio](/portfolio/)!
