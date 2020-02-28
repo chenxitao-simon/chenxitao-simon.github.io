@@ -10,6 +10,7 @@ As an A.R.M.Y since 2016, I've been teaching myself Korean, running a Weibo acco
 
 > Tip: all the translations are in Chineses! 
 
+<br/>
 Feel free to check some below:
 
 ### For BTS
