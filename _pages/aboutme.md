@@ -11,7 +11,6 @@ author_profile: true
 ![Movie](/images/Movie.jpg)
 *Stories in the animated film __Crystal Sky Of Yesterday (昨日青空)__ happen in Lanxi*
 
-<br/>
 **Influenced by my parents who are both bankers, I majored in *Financial Management* when I was in Zhejiang University.**
 ![Lib](/images/Lib.jpg)
 
