@@ -35,34 +35,5 @@ Feel free to check some below:
 [【twi】防弹少年团年度搜索报告](https://m.weibo.cn/5977544597/4463773383163552)
 
 
-### For JIMIN
-
-[防弹少年团智旻的圆<梦>人生](https://m.weibo.cn/5977544597/4456019486689595)
-<br/>
-[【original】智旻出道碎片收集](https://m.weibo.cn/5977544597/4354737467395324)
-<br/>
-[【FB】从FESTA简介中了解的智旻的2014-2018](https://m.weibo.cn/5977544597/4350144822558162)
-<br/>
-[【original】从Program Book采访中了解的智旻的2014-2018](https://m.weibo.cn/5977544597/4271230951721384)
-<br/>
-[【blog】智旻旅行日记](https://m.weibo.cn/5977544597/4269777998975434)
-<br/>
-[【theqoo】关于朴智旻的50个有趣事实](https://m.weibo.cn/5977544597/4301506532344079)
-<br/>
-[【theqoo】作为艺人朴智旻](https://m.weibo.cn/5977544597/4420581766425706)
-<br/>
-[【theqoo】若以多情之人降生 即为防弹少年团智旻](https://m.weibo.cn/5977544597/4336415833224406)
-<br/>
-[【theqoo】一点都不考虑爱豆个人取向的防弹智旻饭们](https://m.weibo.cn/5977544597/4391097318954150)
-<br/>
-[【theqoo】通过防弹智旻了解的巧搭基本款的方法](https://m.weibo.cn/5977544597/4388202699892689)
-<br/>
-[【theqoo】一旦逗智旻尼玩儿 就会越来越想逗他玩儿的原因](https://m.weibo.cn/5977544597/4374658918381943)
-<br/>
-[【theqoo】朴智旻成为chim不乐的100个理由](https://m.weibo.cn/5977544597/4363792735348948)
-<br/>
-[【theqoo】지.민.시 by JIMIN|for JIMIN|of JIMIN](https://m.weibo.cn/5977544597/4361747982784387)
-
-
-> More at: https://m.weibo.cn/c/novelty/detail?card_id=7555200430151683
+More contents can be found [here](https://m.weibo.cn/c/novelty/detail?card_id=7555200430151683)
 
