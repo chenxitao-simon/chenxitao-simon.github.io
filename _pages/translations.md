@@ -64,5 +64,5 @@ Feel free to check some below:
 [【theqoo】지.민.시 by JIMIN|for JIMIN|of JIMIN](https://m.weibo.cn/5977544597/4361747982784387)
 
 
-More at: https://m.weibo.cn/c/novelty/detail?card_id=7555200430151683
+> More at: https://m.weibo.cn/c/novelty/detail?card_id=7555200430151683
 
