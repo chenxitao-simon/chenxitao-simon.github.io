@@ -4,8 +4,8 @@ title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /aboutme/
+  - /aboutme.html
 ---
 
 Born in a small town called Lanxi, I grew up in a quite free and open middle-class family, having a childhood full of fond memories and happiness. I've been out of the town for better education since I was only 12, but I cherished all my time there.
