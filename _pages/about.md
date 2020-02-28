@@ -14,11 +14,11 @@ I'm Chenxi Tao from China, you can just call me Susie as well.
 <br/>
 To know more about me, feel free to check:
 <br/>
-[My Life Story](/aboutme.md)
+[My Life Story](/aboutme/)
 <br/>
-[My Portofolio](/portfolio.md)
+[My Portofolio](/portfolio/)
 <br/>
-[My Translations](/translations.md)
+[My Translations](/translations/)
 <br/>
 [My CV](/cv.md)
 
