@@ -20,7 +20,7 @@ To know more about me, feel free to check:
 <br/>
 [My Translations](/translations/)
 <br/>
-[My CV](/cv/)
+[My CV](/files/Resume_Chenxi%20Tao.pdf)
 
 <br/>
 ![](/images/BG.JPG)
