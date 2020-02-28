@@ -9,7 +9,7 @@ author_profile: true
 ![Lanxi](/images/Lanxi.jpg)
 *Lanxi, Jinhua, Zhejiang, China* <br/>
 ![Movie](/images/Movie.jpg)
-*Stories in the animated film __Crystal Sky Of Yesterday (昨日青空)__ happen in Lanxi*
+*Stories in the animated film Crystal Sky Of Yesterday (昨日青空) happen in Lanxi*
 
 **Influenced by my parents who are both bankers, I majored in *Financial Management* in Zhejiang University.**
 ![Lib](/images/Lib.jpg)
