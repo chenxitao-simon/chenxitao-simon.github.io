@@ -37,7 +37,7 @@ Feel free to check some below:
 
 ### For JIMIN
 
-[【theqoo】防弹少年团智旻的圆<梦>人生](https://m.weibo.cn/5977544597/4456019486689595)
+[防弹少年团智旻的圆<梦>人生](https://m.weibo.cn/5977544597/4456019486689595)
 <br/>
 [【original】智旻出道碎片收集](https://m.weibo.cn/5977544597/4354737467395324)
 <br/>
