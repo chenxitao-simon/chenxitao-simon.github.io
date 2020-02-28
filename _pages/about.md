@@ -16,7 +16,7 @@ To know more about me, feel free to check:
 <br/>
 [My Life Story](/aboutme/)
 <br/>
-[My Portofolio](/portfolio/)
+[My Portfolio](/portfolio/)
 <br/>
 [My Translations](/translations/)
 <br/>
