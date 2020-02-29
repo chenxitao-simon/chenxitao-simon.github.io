@@ -29,7 +29,7 @@ author_profile: true
 **Now as an active member of four clubs, I'm now on my way to seek my future career as a data analyst.**
 ![Club](/images/Club.JPG)
 
-**TMI: I love music and traveling, and I'm a loyal A.R.M.Y who's supported BTS since 2016.**
+**TMI: I love music and traveling, and I'm a loyal A.R.M.Y who's been supporting BTS since 2016.**
 ![Leisure](/images/Leisure.JPG)
 
 
