@@ -4,6 +4,11 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+## Comprehensive Project
+[**Internal Consulting: Mad Hatter Growth Strategy**](/files/Mad%20Hatter%20Growth%20Strategy.pdf)
+![](/images/Mad%20Hatter%20Growth%20Strategy.jpg)
+
+---
 
 ## Projects with Tableau
 
