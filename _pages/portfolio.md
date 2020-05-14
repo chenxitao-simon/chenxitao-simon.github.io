@@ -13,7 +13,8 @@ The project objective is to attract a national retailer and identify an optimal 
 
 ---
 
-[**Internal Consulting: Mad Hatter Growth Strategy**](/files/Mad%20Hatter%20Growth%20Strategy.pdf)
+[**Internal Consulting: Mad Hatter Growth Strategy**](/files/Mad%20Hatter%20Growth%20Strategy.pdf)<br/>
+To help ameliorate Mad-Hatter’s performance and capture a larger share of the market, we recommend opening a second branch in Pittsford in the optimal location, along with Product Improvements, Social Media Marketing, Search Engine Optimization and Online & offline strategies against COVID-19. 
 ![](/images/Mad%20Hatter%20Growth%20Strategy.jpg)
 
 ---
