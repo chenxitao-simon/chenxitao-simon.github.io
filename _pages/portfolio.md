@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Comprehensive Project
-[**Practicum Project: National Chain Retailer Attraction Plan**](/files/COR_Final%20Pitch%20Deck.pdf)
+[**Practicum Project: National Chain Retailer Attraction Plan**](/files/COR_Final%20Pitch%20Deck.pdf)<br/>
+More info: [Executive Summary](/files/COR_Executive%20Summary.pdf) / [Data](/files/Data.zip) / 
 [![Open the notebook](https://img.shields.io/badge/Jupyter-OPen_the_Notebook-9cf?logo=Jupyter)](/files/COR_City%20of%20Rochester%20Codebook.html)<br/>
-[Executive Summary](/files/COR_Executive%20Summary.pdf) / [Data](/files/Data.zip)<br/>
 The project objective is to attract a national retailer and identify an optimal location for it in downtown Rochester with consideration of economic status, demographic attributes and business opportunities. Methodologies included quantitative and qualitative research: data augmentation, peer city comparable analysis, descriptive analysis, predictive modeling, and final pitch deck.
 ![](/images/SlideOverview.png)
 
