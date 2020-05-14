@@ -8,13 +8,13 @@ author_profile: true
 ## Comprehensive Project
 [**Practicum Project: National Chain Retailer Attraction Plan**](/files/COR_Final%20Pitch%20Deck.pdf)
 [![Open the notebook](https://img.shields.io/badge/Jupyter-OPen_the_Notebook-9cf?logo=Jupyter)](/files/COR_City%20of%20Rochester%20Codebook.html)<br/>
-The project objective is to attract a national retailer and identify an optimal location for it in downtown Rochester with consideration of economic status, demographic attributes and business opportunities. Methodologies included quantitative and qualitative research: data augmentation, peer city comparable analysis, descriptive analysis, predictive modeling, and final pitch deck. (More info: [Executive Summary](/files/COR_Executive%20Summary.pdf) / [Data](/files/Data.zip))
+The project objective is to attract a national retailer and identify an optimal location for it in *Downtown Rochester* with consideration of economic status, demographic attributes and business opportunities. Methodologies included quantitative and qualitative research: data augmentation, peer city comparable analysis, descriptive analysis, predictive modeling, and final pitch deck. *(More info: [Executive Summary](/files/COR_Executive%20Summary.pdf) / [Data](/files/Data.zip))*
 ![](/images/SlideOverview.png)
 
 ---
 
 [**Internal Consulting: Mad Hatter Growth Strategy**](/files/Mad%20Hatter%20Growth%20Strategy.pdf)<br/>
-To help ameliorate Mad-Hatter’s performance and capture a larger share of the market, we recommend opening a second branch in Pittsford in the optimal location, along with Product Improvements, Social Media Marketing, Search Engine Optimization and Online & offline strategies against COVID-19. 
+To help ameliorate the performance of the *local restaurant Mad Hatter* and capture a larger share of the market, we recommend opening a second branch in Pittsford in the optimal location, along with Product Improvements, Social Media Marketing, Search Engine Optimization and Online & offline strategies against COVID-19. 
 ![](/images/Mad%20Hatter%20Growth%20Strategy.jpg)
 
 ---
